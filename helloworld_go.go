@@ -1,5 +1,6 @@
 // Go 1.2
 // go run helloworld_go.go
+//HEI KAKE TEST
 
 package main
 
